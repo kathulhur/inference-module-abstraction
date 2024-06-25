@@ -68,7 +68,6 @@ implementation/
     abstraction.py
     model_implementation.py
     inference_metadata.py
-inference_metadata.py
 requirements.in
 ```
 
